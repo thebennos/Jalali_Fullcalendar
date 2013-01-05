@@ -1,9 +1,0 @@
-Jalali_Fullcalendar
-===================
-
-Jalali Fullcalendar for Drupal
-
-Install
-===================
-1- copy lib to sites/all/libraries/fullcalendar
-1- copy module to sites/all/module/fullcalendar
